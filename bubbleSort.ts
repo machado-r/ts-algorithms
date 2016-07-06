@@ -1,5 +1,4 @@
-/* Simple implementation of Bubble sort algorithm using TypeScript
- * through iterating loops.
+/* Simple implementation of Bubble sort algorithm using TypeScript through iterating loops.
  * July 2016
  */
 

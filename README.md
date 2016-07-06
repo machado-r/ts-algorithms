@@ -11,4 +11,4 @@
 
 `Uso`
 
-* Use o tsc para compilar .ts e gerar o .js, rode o rode .js usando node.
+* Use o tsc para compilar o arquivo .ts e gerar o .js, rode o .js usando node.
